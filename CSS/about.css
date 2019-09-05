@@ -1,0 +1,40 @@
+body{
+	margin: 0;
+	padding: 0;
+	background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(../MEDIA/about.jpg);
+	background-size: cover;
+	background-position: center;
+	font-family: sans-serif;
+}
+
+
+
+.about-title{
+	margin-top: 150px;
+	margin-left: +100px;
+	margin-right: 50px;
+	color: #fff;
+	text-transform: uppercase;
+	transition: all 4s ease-in-out;
+}
+
+.about-title h1{
+	text-align: justify;
+	font-size: 32px;
+	line-height: 10px;
+}
+
+.about-title h2{
+    font-size: 16px;
+}
+
+
+
+.intro{
+	width: 1000px;
+	margin-top: 150px;
+	margin: 30px auto;
+	text-align: justify;
+	font-size: 20px;
+	line-height: 40px;
+}
