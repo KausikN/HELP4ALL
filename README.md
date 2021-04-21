@@ -1,2 +1,2 @@
-# HELP4ALL-Project
+# HELP4ALL
  A Website for things todo during emergency situations
